@@ -710,15 +710,15 @@ section {
 
 .about .content h2 {
   font-weight: 600;
-  font-size: 55px;
+  font-size: 50px;
   color: white;
-   background-color: orangered;
+  background-color: orangered;
   width: 500px
-  border: 500px solid orangered;
+  border: 100px solid orangered;
   padding: 50px;
   margin: 20px;
-font-family: "Times New Roman", Times, serif;
- border-radius: 25px;
+  font-family: "Times New Roman", Times, serif;
+  border-radius: 25px;
 }
 
 .about .content h3 {
