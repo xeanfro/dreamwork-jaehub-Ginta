@@ -144,7 +144,7 @@ html::-webkit-scrollbar-thumb {
 #topbar {
   background: black;
   height: 40px;
-  font-size: 14px;
+  font-size: 10px;
   transition: all 0.5s;
   color: #fff;
   padding: 0;
@@ -710,7 +710,7 @@ section {
 
 .about .content h2 {
   font-weight: 600;
-  font-size: 40px;
+  font-size: 38px;
   color: white;
   background-color: orangered;
   width: 500px
